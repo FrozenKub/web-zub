@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb6f760-551c-49ff-b13b-a930dcc37f7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jK7vKtn8NoiiIDwXcSwHZXPWvi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.10.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.10.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cxvd" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml.database: Compose Deployment">
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.database: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="database" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.database: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb6f760-551c-49ff-b13b-a930dcc37f7b" name="Default Changelist" comment="" />
+      <created>1603541159060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603541159060</updated>
+      <workItem from="1603541160119" duration="1927000" />
+      <workItem from="1603618619571" duration="121000" />
+      <workItem from="1603620351241" duration="3614000" />
+      <workItem from="1603664706525" duration="1936000" />
+      <workItem from="1603789481384" duration="2976000" />
+      <workItem from="1603872896872" duration="71000" />
+      <workItem from="1603873497538" duration="2509000" />
+      <workItem from="1603878808404" duration="780000" />
+      <workItem from="1603879619250" duration="1484000" />
+      <workItem from="1603911394853" duration="7000" />
+      <workItem from="1604178431876" duration="4974000" />
+      <workItem from="1604183602466" duration="93000" />
+      <workItem from="1604183846814" duration="744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="324" width="516" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603665159419">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="699" y="324" width="516" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1043@0.0.1920.1043" timestamp="1603665159419" />
+    <state x="693" y="271" width="528" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603622044324">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="693" y="271" width="528" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1043@0.0.1920.1043" timestamp="1603622044324" />
+    <state x="743" y="280" width="428" height="484" key="FileChooserDialogImpl" timestamp="1604183694062">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="743" y="280" width="428" height="484" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1604183694062" />
+    <state width="1897" height="275" key="GridCell.Tab.0.bottom" timestamp="1603543087329">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1897" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1043@0.0.1920.1043" timestamp="1603543087329" />
+    <state width="1897" height="275" key="GridCell.Tab.0.center" timestamp="1603543087329">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1897" height="275" key="GridCell.Tab.0.center/0.0.1920.1043@0.0.1920.1043" timestamp="1603543087329" />
+    <state width="1897" height="275" key="GridCell.Tab.0.left" timestamp="1603543087328">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1897" height="275" key="GridCell.Tab.0.left/0.0.1920.1043@0.0.1920.1043" timestamp="1603543087328" />
+    <state width="1897" height="275" key="GridCell.Tab.0.right" timestamp="1603543087329">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1897" height="275" key="GridCell.Tab.0.right/0.0.1920.1043@0.0.1920.1043" timestamp="1603543087329" />
+  </component>
+</project>

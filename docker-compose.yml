@@ -1,0 +1,31 @@
+version: "3.8"
+
+services:
+  application:
+    build: ./
+    image: web_development_docker_application
+    command: npm run start
+    depends_on:
+      - database
+    networks:
+      dev:
+        aliases:
+          - app.dev
+    ports:
+      - 3000:3000
+    volumes:
+      - ./:/home/nodeApp
+  database:
+    image: postgres
+    networks:
+      dev:
+        aliases:
+          - db.dev
+    environment:
+      - POSTGRES_USER=tom
+      - POSTGRES_DB=first
+      - POSTGRES_PASSWORD=1234
+networks:
+  dev:
+    external:
+      name: dev

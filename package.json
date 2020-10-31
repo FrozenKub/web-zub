@@ -1,0 +1,32 @@
+{
+  "name": "docker_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sequelize-cli db:migrate && nodemon -L"
+  },
+  "keywords": [
+    "node"
+  ],
+  "dependencies": {
+    "argon2": "^0.27.0",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "cookie-session": "^1.4.0",
+    "docker-compose": "^0.23.5",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "passport": "^0.4.1",
+    "passport-cookie": "^1.0.8",
+    "passport-local": "^1.0.0",
+    "pg": "^8.4.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "sequelize-cli": "^6.2.0"
+  }
+}
